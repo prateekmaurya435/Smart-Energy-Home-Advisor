@@ -36,12 +36,9 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-### Build for Production
+### Direct opening link on vercel
 
-```bash
-npm run build
-npm start
-```
+link = [https://smart-energy-home-advisor.vercel.app/]
 
 ---
 
