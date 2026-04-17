@@ -5,7 +5,7 @@ export default function Navbar({ tab, setTab }) {
   const links = [
     { id: 'home', label: 'Home' },
     { id: 'analyze', label: 'Analyze' },
-    { id: 'results', label: 'Results' },
+    { id: 'results', label: 'Dashboard' },
     { id: 'about', label: 'About' },
   ]
 
